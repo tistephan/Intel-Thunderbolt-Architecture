@@ -1,0 +1,722 @@
+!This program cannot be run in DOS mode.
+@USVWAVAWH
+UATAUAVAWH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@SUVWATAVAWH
+ A_A^A\_^][
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+pDtr@8pArlH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtt@8pArnH
+pDtm@8pArgH
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWAVAWH
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+pA_A^A\_^[]
+@USVWATAVAWH
+pA_A^A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+H UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+A_A^A]A\]H
+UATAUAVAWH
+A_A^A]A\]H
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+WATAUAVAWH
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWATAUAVAWH
+pA_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+WDF_DEVICE_CONTEXT
+WDF_WORK_ITEM_CONTEXT
+WdfPowerDeviceInvalid
+WdfPowerDeviceD0
+WdfPowerDeviceD1
+WdfPowerDeviceD2
+WdfPowerDeviceD3
+WdfPowerDeviceD3Final
+WdfPowerDevicePrepareForHibernation
+WdfPowerDeviceMaximum
+PowerActionNone
+PowerActionReserved
+PowerActionSleep
+PowerActionHibernate
+PowerActionShutdown
+PowerActionShutdownReset
+PowerActionShutdownOff
+PowerActionWarmEject
+PowerActionDisplayOff
+PnpCallbackHistoryEntry
+: Entry: TS = 
+ usec, Elapsed = 
+, Exit: TS = 
+, Status: 0x
+, Previous state: 
+, Target state: 
+, Power action: 
+, deviceWake: 
+enabled, Children armed for wake: 
+disabled, Children armed for wake: 
+WdfWaitLockCreate failed with status 0x
+wdf_common::WdfWaitLock::WdfWaitLock
+WDF Wait Lock
+wdf_common::WdfDeviceContextBase::InitPnpCallbacks
+Registering device callback
+wdf_common::WdfDeviceContextBase::EvtDeviceD0EntryCallback
+EvtDeviceD0Entry
+Power Action: 
+, Previous State: 
+wdf_common::WdfDeviceContextBase::EvtDeviceD0EntryPostInterruptsEnabledCallback
+EvtDeviceD0EntryPostInterruptsEnabled
+wdf_common::WdfDeviceContextBase::EvtDeviceD0ExitCallback
+EvtDeviceD0Exit
+, Target State: 
+wdf_common::WdfDeviceContextBase::EvtDeviceD0ExitPreInterruptsDisabledCallback
+EvtDeviceD0ExitPreInterruptsDisabled
+wdf_common::WdfDeviceContextBase::EvtDevicePrepareHardwareCallback
+EvtDevicePrepareHardware
+wdf_common::WdfDeviceContextBase::EvtDeviceReleaseHardwareCallback
+EvtDeviceReleaseHardware
+wdf_common::WdfDeviceContextBase::EvtDeviceSelfManagedIoCleanupCallback
+EvtDeviceSelfManagedIoCleanup
+wdf_common::WdfDeviceContextBase::EvtDeviceSelfManagedIoFlushCallback
+EvtDeviceSelfManagedIoFlush
+wdf_common::WdfDeviceContextBase::EvtDeviceSelfManagedIoInitCallback
+EvtDeviceSelfManagedIoInit
+wdf_common::WdfDeviceContextBase::EvtDeviceSelfManagedIoSuspendCallback
+EvtDeviceSelfManagedIoSuspend
+wdf_common::WdfDeviceContextBase::EvtDeviceSelfManagedIoRestartCallback
+EvtDeviceSelfManagedIoRestart
+wdf_common::WdfDeviceContextBase::EvtDeviceSurpriseRemovalCallback
+EvtDeviceSurpriseRemoval
+wdf_common::WdfDeviceContextBase::EvtDeviceQueryRemoveCallback
+EvtDeviceQueryRemove
+wdf_common::WdfDeviceContextBase::EvtDeviceQueryStopCallback
+EvtDeviceQueryStop
+wdf_common::WdfDeviceContextBase::EvtDeviceUsageNotificationCallback
+EvtDeviceUsageNotification
+wdf_common::WdfDeviceContextBase::EvtDeviceRelationsQueryCallback
+EvtDeviceRelationsQuery
+wdf_common::WdfDeviceContextBase::EvtDeviceUsageNotificationExCallback
+EvtDeviceUsageNotificationEx
+TbtFilterCreateDevice
+objectsLockFactory
+uniqueIdFactory
+Thunderbolt Filter Driver
+deviceContext->context
+TbtFilterDriverEvtCleanupCallback
+list<T> too long
+string too long
+UMDF Driver
+Jan 25 2020
+446fd01082c349948b34c14229fed5cb48f01f4c
+1.41.823.0
+######################################################
+: Version: 
+, Configuration: 
+, Compiled at: 
+, Git Hash: 
+ Build Info
+Configuration: 
+Git Commit Count: 
+Git Hash: 
+Compiled at: 
+DriverEntry
+TbtFilterDriverEvtDeviceAdd
+WUDFx02000
+Wudfx2000: 
+FxDriverEntrydUm Enter PDRIVER_OBJECT_UM 0x%p
+FxDriverEntryUm: VersionBind status %08X
+FxDriverEntryUm: PDRIVER_OBJECT_UM 0x%p Successfully bound to version library
+FxDriverEntryUm: PDRIVER_OBJECT_UM 0x%p Successfully bound to class library if present
+FxDriverEntryUm: DriverEntry status %08X
+FxDriverEntryUm: PDRIVER_OBJECT_UM 0x%p Successfully returned from driver's DriverEntry
+ISerializable
+ Is invalid
+0000000000
+00000000000
+000000000000
+0000000000000
+00000000000000
+000000000000000
+0000000000000000
+00000000000000000
+000000000000000000
+0000000000000000000
+00000000000000000000
+000000000000000000000
+0000000000000000000000
+00000000000000000000000
+000000000000000000000000
+0000000000000000000000000
+00000000000000000000000000
+000000000000000000000000000
+0000000000000000000000000000
+00000000000000000000000000000
+000000000000000000000000000000
+0000000000000000000000000000000
+00000000000000000000000000000000
+------------------------------------------------------------------------------------------
+Attributes Store
+-----------------------------------------------------------------------
+HistoryObjectInfo
+Flushed Entries Count
+History Length
+No history entries
+SerializableObjectInfoWrapper
+ObjectInfoLoggerEntry
+][Critical][
+][Error   ][
+][Warning ][
+][Info    ][
+, Object UID: 
+Timestamp: 
+, Input length: 
+, Output length: 
+, Dwell time: 
+, Completed synchronously with status: 0x
+, Information: 0x
+, Running for: 
+Input Data
+Output Data
+IoctlHandlerObjectInfo
+ID:                     
+Calls count:            
+Successful Calls count: 
+drivers_common::IoctlDispatcher::~IoctlDispatcher
+drivers_common::IoctlDispatcher::RegisterHandler
+ handler is NULL
+ already exists, can't register twice
+ Registering 
+drivers_common::IoctlDispatcher::UnregisterHandler
+ Unregistering 
+drivers_common::IoctlDispatcher::RegisterDefaultHandler
+ default handler 
+ Registering default handler 
+drivers_common::IoctlDispatcher::UnregisterDefaultHandler
+drivers_common::IoctlDispatcher::AttachDispatcher
+drivers_common::IoctlDispatcher::DetachDispatcher
+ Using default handler
+ Failed to find handler for IOCTL 0x
+drivers_common::IoctlDispatcher::GetHandler
+IoctlDispatcherObjectInfo
+Found IOCTLS count
+Found IOCTLS in attached dispatchers count
+missed IOCTLS count
+IOCTL handlers count
+Attached Dispatchers
+Unsupported handler (0x
+, Timestamp: 
+, Input Length: 
+, Output Length: 
+IOCTL Dispatcher
+wdf_common::WdfIoctlDispatcher::WdfIoctlDispatcher
+wdf_common::WdfIoctlDispatcher::ProcessIoctl
+ Failed to find IOCTL handler for 0x
+ Failed to init IOCTL data for 0x
+ Dispatching 
+ failed with statux 0x
+ Failed with status 0x
+WDF Timer Factory
+WdfTimerFactory
+wdf_common::WdfTimerFactory::WdfTimerFactory
+wdf_common::WdfTimerFactory::~WdfTimerFactory
+m_deviceHandle
+ Work Item
+WdfWorkItem
+wdf_common::WdfWorkItem::WdfWorkItem
+WdfWorkItemCreate(&workItemConfig, &attributes, &m_workItem)
+wdf_common::WdfWorkItem::~WdfWorkItem
+wdf_common::WdfWorkItem::Flush
+wdf_common::WdfWorkItem::OnEvtWorkItem
+wdf_common::WdfWorkItem::EvtWorkItem
+WDF Work Item Factory
+WdfWorkItemFactory
+wdf_common::WdfWorkItemFactory::WdfWorkItemFactory
+wdf_common::WdfWorkItemFactory::~WdfWorkItemFactory
+wdf_common::WdfWorkItemFactory::CreateWorkItem
+workItemCallback
+Failed to allocate, size too large 
+drivers_common::UnicodeString::Allocate
+Failed to allocate memory
+Successfully opened 
+wdf_common::RegistryKey::Open
+ with status 0x
+Failed to open 
+wdf_common::RegistryKey::Close
+wdf_common::RegistryKey::GetSubKeys
+wdf_common::RegistryKey::RemoveSubKey
+WdfRegistryRemoveValue failed with status 0x
+wdf_common::RegistryKey::ReadDword
+Successfully read 
+Failed to read 
+Using default value: 
+WdfDriverOpenParametersRegistryKey(m_driver, (((((0x00020000L)) | (0x0001) | (0x0008) | (0x0010)) & (~(0x00100000L)))), (0), &m_key)
+wdf_common::DriverRegistryKey::OpenKey
+ Synchronization Event
+wdf_common::WdfSynchronizationEvent::WdfSynchronizationEvent
+wdf_common::WdfSynchronizationEvent::~WdfSynchronizationEvent
+WDF Sync event factory
+WdfSyncEventFactory
+wdf_common::WdfSyncEventFactory::WdfSyncEventFactory
+wdf_common::WdfSyncEventFactory::~WdfSyncEventFactory
+wdf_common::WdfSyncEventFactory::Create
+WdfDeviceContextBaseResources
+DeviceContextBaseResources
+BuildInfoObjectInfo
+common_frameworks::BuildInfoObjectInfo::BuildInfoObjectInfo
+common_frameworks::BuildInfoObjectInfo::~BuildInfoObjectInfo
+m_ioctlDispatcher
+wdf_common::WdfDeviceContextBase::ProcessIoctl
+wdf_common::WdfDeviceContextBase::InitBasicResources
+ Attributes Store
+m_lockFactory
+CreateIoctlDispatcher()
+m_workItemFactory
+m_timerFactory
+ PNP Events History
+m_pnpHistoryObjectInfo
+wdf_common::WdfDeviceContextBase::CreateIoctlDispatcher
+WdfIoQueueCreate(m_device, &queueConfig, (0), &queue)
+wdf_common::WdfDeviceContextBase::CreateForwardToNextDriverIoctlHandler
+wdf_common::WdfDeviceContextBase::CreateNextDriverIoctlProxy
+wdf_common::WdfDeviceContextBase::EvtIoDeviceControlCallback
+Forward to next driver 
+wdf_common::WdfForwardToNextDriverIoctlHandler::WdfForwardToNextDriverIoctlHandler
+wdf_common::WdfForwardToNextDriverIoctlHandler::~WdfForwardToNextDriverIoctlHandler
+wdf_common::WdfForwardToNextDriverIoctlHandler::Run
+ WdfRequestSend Failed with status 0x
+wdf_common::WdfIoctlProxy::~WdfIoctlProxy
+wdf_common::WdfIoctlProxy::IoControl
+ Failed to get IO target for 0x
+ WdfIoTargetSendIoctlSynchronously failed with status 0x
+ IO control 0x
+wdf_common::WdfIoctlProxy::AsyncIoControl
+wdf_common::WdfIoctlProxy::AsyncIoControlCompletionContext::~AsyncIoControlCompletionContext
+wdf_common::WdfIoctlProxy::InitWdfMemory
+wdf_common::WdfIoctlProxy::AsyncIoctlCompletionRoutine
+wdf_common::WdfIoctlProxy::OnAsyncIoctlCompletion
+, Pending for: 
+, Execution Time: 
+ ms, Input Length: 
+, STATUS = 0x
+No pending synchronous IOCTLs
+Pending Synchronous IOCTLs:
+No pending asynchronous IOCTLs
+Pending Asynchronous IOCTLs:
+tbt_filter_driver::TbtFilterContext::TbtFilterContext
+tbt_filter_driver::TbtFilterContext::~TbtFilterContext
+tbt_filter_driver::TbtFilterContext::Init
+InitBasicResources()
+OpenValidationInterfaces()
+tbt_filter_driver::TbtFilterContext::CreateLockFactory
+tbt_filter_driver::TbtFilterContext::CreateNextDriverIoctlProxy
+Bus Driver IOCTL Proxy
+tbt_filter_driver::TbtFilterContext::RegisterBusIoctls
+tbt_filter_driver::TbtFilterContext::InitAutoConnect
+m_dmaGuardInfo
+AutoConnect
+m_nextDriverIoctlProxy->IoControlWrite(static_cast<ULONG>(( ((0x0000002a) << 16) | ((( 0x0002 )) << 14) | (((2070 + TBT_IOCTL_BUS_SET_AUTO_CONNECT_MODE)) << 2) | (0) )), autoConnectMode)
+tbt_filter_driver::TbtFilterContext::OpenValidationInterfaces
+m_nextDriverIoctlProxy->IoControl(static_cast<ULONG>(( ((0x0000002a) << 16) | ((( 0x0002 )) << 14) | (((2070 + TBT_IOCTL_BUS_OPEN_VALIDATION_INTERFACES)) << 2) | (0) )), nullptr, 0, nullptr, 0)
+ Attributes
+vector<T> too long
+SmartIntegerVector
+SmartInteger
+IoctlDispatcher
+drivers_common::IoctlDispatcher::IoctlDispatcher
+IOCTL handler 0x
+drivers_common::IoctlHandler::IoctlHandler
+WdfDeviceContextBase
+wdf_common::WdfDeviceContextBase::WdfDeviceContextBase
+invalid string position
+IIoctlHandler
+WdfIoctlProxy
+wdf_common::WdfIoctlProxy::WdfIoctlProxy
+WdfIoctlProxyObjectInfo
+Synchronous IOCTL History
+Asynchronous IOCTL history
+Unknown exception
+bad allocation
+bad array new length
+bad exception
+__thiscall
+__fastcall
+__vectorcall
+__restrict
+__unaligned
+`local static guard'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+DmaGuardObjectInfo
+DMA guard On
+Init Status
+DMA Guard Info
+DmaGuardInfo
+umdf_common::DmaGuardInfo::DmaGuardInfo
+umdf_common::DmaGuardInfo::Init
+moduleHandle
+NtQuerySystemInformation
+pfnNtQuerySystemInformation
+pfnNtQuerySystemInformation(SystemDmaGuardPolicyInformation, &info, static_cast<ULONG>(sizeof(info)), &returnLength)
+d:\Jenkins\workspace\ccd-sw-fw\tbt-windows-sw-cd\TbtFilterDrv\x64\Release\TbtFilterDrv.pdb
+.text$mn$00
+.rdata$zzzdbg
+.kmdfclassbind$a
+.kmdfclassbind$c
+.kmdfclassbind$d
+TbtFilterDrv.dll
+FxDriverEntryUm
+DbgPrintEx
+TraceMessage
+RegisterTraceGuidsW
+UnregisterTraceGuids
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+ADVAPI32.dll
+_invalid_parameter_noinfo_noreturn
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+CloseHandle
+ResetEvent
+WaitForSingleObject
+CreateEventW
+QueryPerformanceCounter
+GetSystemTimePreciseAsFileTime
+__C_specific_handler
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetModuleHandleW
+KERNEL32.dll
+RtlPcToFileHeader
+RtlUnwindEx
+RaiseException
+InterlockedFlushSList
+GetLastError
+SetLastError
+FlsGetValue
+FlsSetValue
+EncodePointer
+InitializeCriticalSectionEx
+DeleteCriticalSection
+_initterm_e
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_execute_onexit_table
+api-ms-win-crt-heap-l1-1-0.dll
+GetProcAddress
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVbad_exception@std@@
+SAMPLE_IDENTIFIER{2177f19c-eb4c-4687-9e7f-f9eec1f12cf1}
+VS_VERSION_INFO
+StringFileInfo
+CompanyName
+Intel Corporation
+FileDescription
+Thunderbolt(TM) Filter Driver
+FileVersion
+1.41.823.0
+InternalName
+TbtFilterDrv.dll
+LegalCopyright
+Copyright(C) 2020, Intel Corporation
+OriginalFilename
+TbtFilterDrv.dll
+ProductName
+Thunderbolt(TM) Filter Driver
+ProductVersion
+446fd01082c349948b34c14229fed5cb48f01f4c
+VarFileInfo
+Translation
+<<<Obsolete>>
+Washington1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+130815202630Z
+230815203630Z0o1
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+000530104838Z
+200530104838Z0
+Greater Manchester1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+http://ocsp.usertrust.com0
+Santa Clara1
+Intel Corporation1%0#
+Intel External Issuing CA 7B0
+190304151517Z
+210303151517Z0g1
+Santa Clara1
+Intel Corporation1
+TBT_DCH_DRV_PROD0
+&http://pki.intel.com/crl/IntelCA7B.crl0f
+&http://pki.intel.com/crt/IntelCA7B.crt0"
+http://OCSP.intel.com/0
+Greater Manchester1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+151028000000Z
+210617235959Z0s1
+Santa Clara1
+Intel Corporation1%0#
+Intel External Issuing CA 7B0
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com05
+intel.com0
+intel.com0
+Santa Clara1
+Intel Corporation1%0#
+Intel External Issuing CA 7B
+20200125182234.535Z0
+Santa Clara1
+Intel Corporation1&0$
+Thales TSS ESN:0E37-9649-08C51
+timestamp.intel.com
+QuoVadis Limited1%0#
+Root Certification Authority1.0,
+%QuoVadis Root Certification Authority0
+140530163555Z
+210317183333Z0I1
+QuoVadis Limited1
+QuoVadis Issuing CA G40
+http://ocsp.quovadisglobal.com05
+)http://trust.quovadisglobal.com/qvrca.crt0
+'http://crl.quovadisglobal.com/qvrca.crl0
+QuoVadis Limited1
+QuoVadis Issuing CA G40
+180420165241Z
+210317183333Z0
+Santa Clara1
+Intel Corporation1&0$
+Thales TSS ESN:0E37-9649-08C51
+timestamp.intel.com0
+http://ocsp.quovadisglobal.com07
++http://trust.quovadisglobal.com/qvicag4.crt0O
+(http://www.quovadisglobal.com/repository0
+)http://crl.quovadisglobal.com/qvicag4.crl0
+QuoVadis Limited1
+QuoVadis Issuing CA G4
+QuoVadis Limited1
+QuoVadis Issuing CA G4
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+190605180632Z
+200603180632Z0
+Washington1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+ Microsoft Operations Puerto Rico1
+232825+4554580
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+Washington1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+"Intel Corporatio
+(https://www.microsoft.com/en-us/windows 0
+20200127094719.612Z0
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FF06-4BC3-B9DA1%0#
+Microsoft Time-Stamp Service
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+191023231937Z
+210121231937Z0
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FF06-4BC3-B9DA1%0#
+Microsoft Time-Stamp Service0
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+Legal_Policy_Statement
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FF06-4BC3-B9DA1%0#
+Microsoft Time-Stamp Service
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20200127065025Z
+20200128065025Z0t0:
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010

@@ -1,0 +1,1070 @@
+!This program cannot be run in DOS mode.
+|$ UATAUAVAWH
+|$ UATAUAVAWH
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWAVAWH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+UATAUAVAWH
+UVWATAUAVAWH
+PA_A^A]A\_^]
+\$ UVWAVAWH
+|$ UATAUAVAWH
+|$ UATAUAVAWH
+|$ UATAUAVAWH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+@USVWATAVAWH
+A_A^A\_^[]
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATAVAWH
+A_A^A\_^[]
+t$ UWATAUAWH
+@SUVWAVAWH
+@SUVWAVAWH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWAVAWH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWAVAWH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+`A_A^A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+x UATAUAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+t$"D8s8tPH
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWAUAVAWH
+A_A^A]_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWATAVAWH
+@SUVWAUAVAWH
+A_A^A]_^][
+t$ UWATAVAWH
+|$ UATAUAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+t$ UWATAVAWH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+x UATAUAVAWH
+A_A^A]A\]H
+WATAUAVAWH
+@SUVWATAVAWH
+A_A^A\_^][
+@SUVWATAVAWH
+pA_A^A\_^][
+@SUVWATAVAWH
+A_A^A\_^][
+@SUVWATAVAWH
+A_A^A\_^][
+|$ UATAUAVAWH
+|$ UATAUAVAWH
+WdfWaitLockCreate failed with status 0x
+wdf_common::WdfWaitLock::WdfWaitLock
+WDF Wait Lock
+TbtMpDrvShutdown
+Index out of bounds, returning dummy address
+kstd::string_base<unsigned short>::operator []
+Jan 25 2020
+446fd01082c349948b34c14229fed5cb48f01f4c
+1.41.823.0
+######################################################
+: Version: 
+, Configuration: 
+, Compiled at: 
+, Git Hash: 
+ Build Info
+Configuration: 
+Git Commit Count: 
+Git Hash: 
+Compiled at: 
+TbtMpDrvCheckForHang
+TbtMpDrvReset
+TbtMpDrvTxAbortNetBufferList
+TbtMpDrvCancelSend
+NdisRequestQueryInformation
+NdisRequestSetInformation
+NdisRequestQueryStatistics
+NdisRequestOpen
+NdisRequestClose
+NdisRequestSend
+NdisRequestTransferData
+NdisRequestReset
+NdisRequestGeneric1
+NdisRequestGeneric2
+NdisRequestGeneric3
+NdisRequestGeneric4
+NdisRequestMethod
+Unknown NdisRequest
+NdisDevicePnPEventQueryRemoved
+NdisDevicePnPEventRemoved
+NdisDevicePnPEventSurpriseRemoved
+NdisDevicePnPEventQueryStopped
+NdisDevicePnPEventStopped
+NdisDevicePnPEventPowerProfileChanged
+NdisDevicePnPEventFilterListChanged
+Unknown NdisDevicePnpEvent
+ISerializable
+ Is invalid
+0000000000
+00000000000
+000000000000
+0000000000000
+00000000000000
+000000000000000
+0000000000000000
+00000000000000000
+000000000000000000
+0000000000000000000
+00000000000000000000
+000000000000000000000
+0000000000000000000000
+00000000000000000000000
+000000000000000000000000
+0000000000000000000000000
+00000000000000000000000000
+000000000000000000000000000
+0000000000000000000000000000
+00000000000000000000000000000
+000000000000000000000000000000
+0000000000000000000000000000000
+00000000000000000000000000000000
+------------------------------------------------------------------------------------------
+Attributes Store
+-----------------------------------------------------------------------
+HistoryObjectInfo
+Flushed Entries Count
+History Length
+No history entries
+SerializableObjectInfoWrapper
+ObjectInfoLoggerEntry
+][Critical][
+][Error   ][
+][Warning ][
+][Info    ][
+, Object UID: 
+Timestamp: 
+, Input length: 
+, Output length: 
+, Dwell time: 
+, Completed synchronously with status: 0x
+, Information: 0x
+, Running for: 
+Input Data
+Output Data
+IoctlHandlerObjectInfo
+ID:                     
+Calls count:            
+Successful Calls count: 
+drivers_common::IoctlDispatcher::~IoctlDispatcher
+drivers_common::IoctlDispatcher::RegisterHandler
+ handler is NULL
+ already exists, can't register twice
+ Registering 
+drivers_common::IoctlDispatcher::UnregisterHandler
+ Unregistering 
+drivers_common::IoctlDispatcher::RegisterDefaultHandler
+ default handler 
+ Registering default handler 
+drivers_common::IoctlDispatcher::UnregisterDefaultHandler
+drivers_common::IoctlDispatcher::AttachDispatcher
+drivers_common::IoctlDispatcher::DetachDispatcher
+ Using default handler
+ Failed to find handler for IOCTL 0x
+drivers_common::IoctlDispatcher::GetHandler
+IoctlDispatcherObjectInfo
+Found IOCTLS count
+Found IOCTLS in attached dispatchers count
+missed IOCTLS count
+IOCTL handlers count
+Attached Dispatchers
+Unsupported handler (0x
+, Timestamp: 
+, Input Length: 
+, Output Length: 
+IOCTL Dispatcher
+wdf_common::WdfIoctlDispatcher::WdfIoctlDispatcher
+wdf_common::WdfIoctlDispatcher::ProcessIoctl
+ Failed to find IOCTL handler for 0x
+ Failed to init IOCTL data for 0x
+ Dispatching 
+ failed with statux 0x
+ Failed with status 0x
+WDF Timer Factory
+WdfTimerFactory
+wdf_common::WdfTimerFactory::WdfTimerFactory
+wdf_common::WdfTimerFactory::~WdfTimerFactory
+m_deviceHandle
+ Work Item
+WdfWorkItem
+wdf_common::WdfWorkItem::WdfWorkItem
+WdfWorkItemCreate(&workItemConfig, &attributes, &m_workItem)
+wdf_common::WdfWorkItem::~WdfWorkItem
+ Destructor is called in IRQL > dispatch level and therefore can't flush the work item
+wdf_common::WdfWorkItem::OnEvtWorkItem
+wdf_common::WdfWorkItem::EvtWorkItem
+WDF Work Item Factory
+WdfWorkItemFactory
+wdf_common::WdfWorkItemFactory::WdfWorkItemFactory
+wdf_common::WdfWorkItemFactory::~WdfWorkItemFactory
+wdf_common::WdfWorkItemFactory::CreateWorkItem
+workItemCallback
+Failed to allocate memory
+ Synchronization Event
+wdf_common::WdfSynchronizationEvent::WdfSynchronizationEvent
+wdf_common::WdfSynchronizationEvent::~WdfSynchronizationEvent
+WDF Sync event factory
+WdfSyncEventFactory
+wdf_common::WdfSyncEventFactory::WdfSyncEventFactory
+wdf_common::WdfSyncEventFactory::~WdfSyncEventFactory
+wdf_common::WdfSyncEventFactory::Create
+WdfDeviceContextBaseResources
+DeviceContextBaseResources
+ Get Driver Name
+drivers_common::GetDriverNameIoctlHandler::GetDriverNameIoctlHandler
+drivers_common::GetDriverNameIoctlHandler::~GetDriverNameIoctlHandler
+common_frameworks::ObjectsInfoAccessor::ObjectsInfoAccessor
+common_frameworks::ObjectsInfoAccessor::~ObjectsInfoAccessor
+] [Description: 
+] [Serialized As: 
+] [Importance: 
+==========================================================================================
+..........................................................................................
+-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=
+ Objects info descriptions
+drivers_common::ObjectsInfoDescriptionsIoctlHandler::ObjectsInfoDescriptionsIoctlHandler
+drivers_common::ObjectsInfoDescriptionsIoctlHandler::~ObjectsInfoDescriptionsIoctlHandler
+ TreeObject info
+drivers_common::ObjectInfoIoctlHandler::ObjectInfoIoctlHandler
+drivers_common::ObjectInfoIoctlHandler::~ObjectInfoIoctlHandler
+ TreeObject info reset
+drivers_common::ObjectInfoResetIoctlHandler::ObjectInfoResetIoctlHandler
+drivers_common::ObjectInfoResetIoctlHandler::~ObjectInfoResetIoctlHandler
+BuildInfoObjectInfo
+common_frameworks::BuildInfoObjectInfo::BuildInfoObjectInfo
+common_frameworks::BuildInfoObjectInfo::~BuildInfoObjectInfo
+ Get Scrutinizer Version
+drivers_common::GetScrutinizerVersionIoctlHandler::GetScrutinizerVersionIoctlHandler
+Scrutinizer
+DriverScrutinizerFacade
+drivers_common::DriverScrutinizerFacade::DriverScrutinizerFacade
+drivers_common::DriverScrutinizerFacade::Init
+m_objectsInfoAccessor
+getScrutinizerVersionIoctlHandler
+m_ioctlDispatcher->RegisterHandler(getScrutinizerVersionIoctlHandler)
+getDriverNameIoctlHandler
+m_ioctlDispatcher->RegisterHandler(getDriverNameIoctlHandler)
+m_objectsInfoDescriptionsIoctlHandler
+m_objectInfoIoctlHandler
+m_objectInfoResetIoctlHandler
+drivers_common::DriverScrutinizerFacade::Enable
+m_ioctlDispatcher
+m_ioctlDispatcher->RegisterHandler(m_objectsInfoDescriptionsIoctlHandler)
+m_ioctlDispatcher->RegisterHandler(m_objectInfoIoctlHandler)
+m_ioctlDispatcher->RegisterHandler(m_objectInfoResetIoctlHandler)
+drivers_common::DriverScrutinizerFacade::Disable
+Enable Scrutinizer
+drivers_common::EnableScrutinizerIoctlHandler::EnableScrutinizerIoctlHandler
+wdf_common::WdfDeviceContextBase::ProcessIoctl
+wdf_common::WdfDeviceContextBase::EvtIoDeviceControlCallback
+TBT P2P Device
+p2p_device::TbtP2pContext::TbtP2pContext
+Driver Loaded
+p2p_device::TbtP2pContext::~TbtP2pContext
+: m_callbackInstance or m_callbackFunc is null
+common_frameworks::Callback<class p2p_device::TbtP2pContext,bool>::Invoke
+common_frameworks::Callback<class p2p_device::TbtP2pContext>::Invoke
+ Attributes
+kstd::vector<unsigned char>::Allocate
+SmartIntegerVector
+SmartInteger
+IoctlDispatcher
+drivers_common::IoctlDispatcher::IoctlDispatcher
+IOCTL handler 0x
+drivers_common::IoctlHandler::IoctlHandler
+WdfDeviceContextBase
+wdf_common::WdfDeviceContextBase::WdfDeviceContextBase
+IIoctlHandler
+P2P Data Path
+P2pDataPath
+p2p_data_path::P2pDataPath::P2pDataPath
+Bus Driver Interface
+BusDriverInterfaceProxy
+p2p_bus_driver_interface::BusDriverInterfaceProxy::BusDriverInterfaceProxy
+TreeObjectAsObjectInfo
+Disconnected
+Ready for approval
+Ready for connection
+wdf_common::WdfTimer::WdfTimer
+deviceHandle
+WdfTimerCreate(&timerConfig, &attributes, &m_timer)
+wdf_common::WdfTimer::~WdfTimer
+wdf_common::WdfTimer::Start
+ Starting with timeout 
+wdf_common::WdfTimer::Stop
+wdf_common::WdfTimer::OnTimerExpired
+wdf_common::WdfTimer::TimerExpired
+wdf_common::WdfTimerFactory::Create
+timerCallback
+ Notification Event
+wdf_common::WdfNotificationEvent::WdfNotificationEvent
+wdf_common::WdfNotificationEvent::~WdfNotificationEvent
+P2P Connection State Machine
+p2p_connection::P2pConnectionStateMachine::P2pConnectionStateMachine
+p2p_connection::P2pConnectionStateMachine::~P2pConnectionStateMachine
+P2pConnectionState
+p2p_connection::P2pConnectionState::Login
+p2p_connection::P2pConnectionState::PauseDataPath
+p2p_connection::P2pConnectionStateDisconnected::P2pConnectionStateDisconnected
+p2p_connection::P2pConnectionStateDisconnected::OnEntry
+p2p_connection::P2pConnectionStateDisconnected::Login
+p2p_connection::P2pConnectionStateDisconnected::Logout
+Wait for Medium Ready
+p2p_connection::P2pConnectionStateWaitForMediumReady::P2pConnectionStateWaitForMediumReady
+p2p_connection::P2pConnectionStateWaitForMediumReady::Logout
+Retry Count
+Wait login response timeout
+p2p_connection::P2pConnectionStateLogin::P2pConnectionStateLogin
+p2p_connection::P2pConnectionStateLogin::OnEntry
+p2p_connection::P2pConnectionStateLogin::Login
+p2p_connection::P2pConnectionStateLogin::Logout
+m_loginResponseTimer
+Peer login request counter
+Reply with login request threshold
+p2p_connection::P2pConnectionStateConnected::P2pConnectionStateConnected
+p2p_connection::P2pConnectionStateConnected::OnEntry
+p2p_connection::P2pConnectionStateConnected::Logout
+p2p_connection::P2pConnectionStateConnected::PauseDataPath
+m_dataPath->Pause()
+Connected data path paused
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::P2pConnectionStateConnectedDataPathPaused
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::Login
+m_dataPath->Resume()
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::Logout
+Wait for peer login
+p2p_connection::P2pConnectionStateWaitForPeerLogin::P2pConnectionStateWaitForPeerLogin
+p2p_connection::P2pConnectionStateWaitForPeerLogin::OnEntry
+p2p_connection::P2pConnectionStateWaitForPeerLogin::Logout
+p2p_connection::P2pConnectionStateLogout::P2pConnectionStateLogout
+p2p_connection::P2pConnectionStateLogout::OnEntry
+p2p_connection::P2pConnectionStateLogout::Logout
+Peer Logout
+p2p_connection::P2pConnectionStatePeerLogout::P2pConnectionStatePeerLogout
+p2p_connection::P2pConnectionStatePeerLogout::OnEntry
+p2p_connection::P2pConnectionStatePeerLogout::Logout
+p2p_connection::PeerData::PeerData
+Peer login packet not received
+Peer login response packet not received
+common_frameworks::Callback<class p2p_connection::P2pConnectionStateMachine,enum MEDIUM_STATUS>::Invoke
+common_frameworks::Callback<class p2p_connection::P2pConnectionStateMachine,class kstd::shared_ptr<class p2p_control_path::P2pStatusPacket> >::Invoke
+common_frameworks::Callback<class p2p_connection::P2pConnectionStateMachine,class kstd::shared_ptr<class p2p_control_path::P2pLogoutPacket> >::Invoke
+common_frameworks::Callback<class p2p_connection::P2pConnectionStateMachine,class kstd::shared_ptr<class p2p_control_path::P2pLoginResponsePacket> >::Invoke
+common_frameworks::Callback<class p2p_connection::P2pConnectionStateMachine,class kstd::shared_ptr<class p2p_control_path::P2pLoginPacket> >::Invoke
+common_frameworks::Callback<class p2p_connection::P2pConnectionStateMachine>::Invoke
+Current State: 
+ (Time since entry: 
+State Info (optional):
+common_frameworks::StateMachine<class p2p_connection::P2pConnectionState,enum p2p_connection::P2pConnectionStates>::~StateMachine
+kstd::vector<class kstd::shared_ptr<class p2p_connection::P2pConnectionState> >::operator []
+kstd::vector<class kstd::shared_ptr<class p2p_connection::P2pConnectionState> >::Allocate
+StateMachine
+Uninitialized
+common_frameworks::StateMachine<class p2p_connection::P2pConnectionState,enum p2p_connection::P2pConnectionStates>::StateMachine
+]: Time since entry: 
+, Time since exit: 
+StateMachineHistoryEntry
+NDIS Status Indicator
+NdisStatusIndicator
+p2p_device::NdisStatusIndicator::NdisStatusIndicator
+P2P Control Path
+P2pControlPath
+p2p_control_path::P2pControlPath::P2pControlPath
+Sequence Number
+Control Packet History
+Control Path
+P2pControlPathObjectInfo
+common_frameworks::Callback<class p2p_control_path::P2pControlPath,struct _THUNDERBOLT_IP_PACKET_HEADER const *,unsigned __int64>::Invoke
+p2p_control_path::P2pControlPacket::Serialize
+Packet type = 
+p2p_control_path::P2pControlPacket::SerializeHeader
+ packet (command ID: 
+ us, Time since:
+p2p_control_path::P2pLoginPacket::Serialize
+ProtocolRevision
+TransmitPath
+IP login response
+p2p_control_path::P2pLoginResponsePacket::Serialize
+ReceiverMACAddressLength
+Mac Address:
+p2p_control_path::P2pStatusPacket::Serialize
+Failed to allocate, size too large 
+drivers_common::UnicodeString::Allocate
+ IO Target
+WdfIoTarget
+wdf_common::WdfIoTarget::WdfIoTarget
+wdf_common::WdfIoTarget::~WdfIoTarget
+ Central Scrutinizer Client
+CentralScrutinizerClient
+kmdf_common::CentralScrutinizerClient::CentralScrutinizerClient
+kmdf_common::CentralScrutinizerClient::~CentralScrutinizerClient
+common_frameworks::Callback<class kmdf_common::CentralScrutinizerClient>::Invoke
+common_frameworks::Callback<class kmdf_common::CentralScrutinizerClient,enum kmdf_common::DriverPnpNotificationType,class drivers_common::UnicodeString const &>::Invoke
+KmdfDriverToDriverInterfaceClient
+kmdf_common::KmdfDriverToDriverInterfaceClient<struct _CENTRAL_SCRUTINIZER_DRIVER_INTERFACE_V3>::KmdfDriverToDriverInterfaceClient
+KernelDriverPnpNotificationWatcher
+kmdf_common::KernelDriverPnpNotificationWatcher::KernelDriverPnpNotificationWatcher
+kmdf_common::KernelDriverPnpNotificationWatcher::~KernelDriverPnpNotificationWatcher
+^WDF_TIMER_CONTEXT
+WDF_WORK_ITEM_CONTEXT
+DEVICE_CONTEXT
+WDF_DEVICE_CONTEXT
+KmdfLibrary
+WDF_IO_TARGET_CONTEXT
+d:\Jenkins\workspace\ccd-sw-fw\tbt-windows-sw-cd\TbtP2pNdisDrv\x64\Release\TbtP2pNdisDrv.pdb
+.text$mn$00
+.text$mn$21
+.rdata$zzzdbg
+.kmdfclassbind$a
+.kmdfclassbind$c
+.kmdfclassbind$d
+.kmdftypeinit$a
+.kmdftypeinit$c
+t$ UWATAVAWH
+x UATAUAVAWH
+x UATAUAVAWH
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+x UATAUAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWAVAWH
+@USVWATAVAWH
+A_A^A\_^[]
+\$ UVWAVAWH
+t$ UWATAVAWH
+t$ UWATAVAWH
+t$ UWATAVAWH
+t$ UWATAVAWH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ UWATAVAWH
+t$ UWATAVAWH
+t$ UWATAVAWH
+t$ UWATAVAWH
+t$ UWATAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWATAVAWH
+k VWATAVAWH
+t$ UWATAVAWH
+@USVWAUAVAWH
+A_A^A]_^[]
+x UATAUAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWAVAWH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+t$ UWATAVAWH
+ Failed with status 0x
+TbtMpDrvInitialize
+NetworkAddress
+%02x%02x%02x%02x%02x%02x
+TbtMpDrvAllocateDeviceContext
+not supported
+legacyP2pProxy
+objectsLockFactory
+uniqueIdFactory
+(*ppDeviceContext)->p2pContext->Init(legacyP2pProxy)
+TbtMpDrvAllocateTxRxResources
+TbtMpDrvHalt
+TbtMpDrvPause
+TbtMpDrvRestart
+PsGetVersion
+WmiTraceMessage
+WmiQueryTraceInformation
+EtwRegisterClassicProvider
+EtwUnregister
+Thunderbolt(TM) Networking Driver
+TbtMpDrvDevicePnPEventNotify
+wdf_common::WdfWorkItem::Flush
+wdf_common::WdfDeviceContextBase::InitBasicResources
+ Attributes Store
+m_lockFactory
+CreateIoctlDispatcher()
+m_workItemFactory
+m_timerFactory
+ PNP Events History
+m_pnpHistoryObjectInfo
+m_ioctlDispatcher
+wdf_common::WdfDeviceContextBase::CreateIoctlDispatcher
+WdfIoQueueCreate(m_device, &queueConfig, (0), &queue)
+wdf_common::WdfDeviceContextBase::CreateForwardToNextDriverIoctlHandler
+wdf_common::WdfDeviceContextBase::CreateNextDriverIoctlProxy
+wdf_common::WdfDeviceContextBase::InitScrutinizerResources
+m_driverScrutinizerFacade
+m_driverScrutinizerFacade->Init(ioctlDispatcher, objectInfoAccessor, this->GetName())
+enableScrutinizerIoctlHandler
+ioctlDispatcher->RegisterHandler(enableScrutinizerIoctlHandler)
+p2p_device::TbtP2pContext::Init
+InitBasicResources()
+AllocateMembers()
+InitializeMembers()
+m_centralScrutinizerClient->Start()
+p2p_device::TbtP2pContext::Uninit
+UninitializeMembers()
+ReleaseMembers()
+p2p_device::TbtP2pContext::AllocateMembers
+m_centralScrutinizerClient
+m_busDriverInterface
+m_dataPath
+m_ndisStatusIndicator
+m_connectionStateMachine
+m_controlPath
+TakeSnapshot
+p2p_device::TbtP2pContext::ReleaseMembers
+p2p_device::TbtP2pContext::InitializeMembers
+InitScrutinizerResources(shared_ptr< WdfIoctlDispatcher>(nullptr))
+m_centralScrutinizerClient->Init(m_lockFactory, m_driverScrutinizerFacade->GetObjectsInfoAccessor())
+m_busDriverInterface->Init(m_legacyP2pProxy->GetBusDriverInterface())
+m_dataPath->Init(m_busDriverInterface, m_legacyP2pProxy)
+m_controlPath->Init(m_busDriverInterface)
+m_ndisStatusIndicator->Init(m_legacyP2pProxy->GetNdisMiniportHandle(), m_busDriverInterface)
+m_connectionStateMachine->Init(m_busDriverInterface, m_dataPath, m_controlPath, m_ndisStatusIndicator)
+ConnectionControl
+p2p_device::TbtP2pContext::UninitializeMembers
+m_centralScrutinizerClient->Stop()
+p2p_device::TbtP2pContext::Connect
+m_connectionStateMachine->Connect()
+p2p_device::TbtP2pContext::Disconnect
+p2p_device::TbtP2pContext::PauseDataPath
+m_connectionStateMachine->PauseDataPath()
+p2p_device::TbtP2pContext::CreateLockFactory
+p2p_device::TbtP2pContext::CreateIoctlDispatcher
+p2p_device::TbtP2pContext::TakeSnapshot
+p2p_device::TbtP2pContext::ConnectionControl
+p2p_data_path::P2pDataPath::Init
+busDriverInterface
+m_deviceContext
+m_transmitDpcCallback
+m_receiveDpcCallback
+p2p_data_path::P2pDataPath::Open
+m_busDriverInterface->RegisterDPC(m_deviceContext, m_transmitDpcCallback, m_receiveDpcCallback)
+m_busDriverInterface->SetTxState(true)
+m_busDriverInterface->SetTxInterruptState(true)
+m_busDriverInterface->SetRxState(true)
+m_busDriverInterface->SetRxInterruptState(true)
+p2p_data_path::P2pDataPath::Close
+m_busDriverInterface->SetRxInterruptState(false)
+m_busDriverInterface->SetRxState(false)
+m_busDriverInterface->DrainTxPackets(5000)
+m_busDriverInterface->SetTxInterruptState(false)
+m_busDriverInterface->SetTxState(false)
+m_busDriverInterface->UnregisterDPC()
+p2p_data_path::P2pDataPath::Pause
+p2p_data_path::P2pDataPath::Resume
+p2p_bus_driver_interface::BusDriverInterfaceProxy::Init
+p2p_bus_driver_interface::BusDriverInterfaceProxy::Uninit
+p2p_bus_driver_interface::BusDriverInterfaceProxy::SendIpPacketToPeer
+m_busDriverInterface->InterfaceHeader.Context
+m_busDriverInterface->SendMessageToPeer
+m_busDriverInterface->SendMessageToPeer(m_busDriverInterface->InterfaceHeader.Context, const_cast<void *>(packet), static_cast<UINT32>(size), false)
+p2p_bus_driver_interface::BusDriverInterfaceProxy::GetMediumStatus
+p2p_bus_driver_interface::BusDriverInterfaceProxy::IndicateMediumConnected
+m_busDriverInterface->SetMediumStatus
+p2p_bus_driver_interface::BusDriverInterfaceProxy::IndicateMediumDisconnected
+p2p_bus_driver_interface::BusDriverInterfaceProxy::RegisterProcessRxIpPacket
+p2p_bus_driver_interface::BusDriverInterfaceProxy::RegisterProcessMediumStatusChangedCallback
+p2p_bus_driver_interface::BusDriverInterfaceProxy::RegisterDPC
+m_busDriverInterface->RegisterDpc
+m_busDriverInterface->RegisterDpc(m_busDriverInterface->InterfaceHeader.Context, transmitDpcCallback, deviceContext, receiveDpcCallback, deviceContext)
+p2p_bus_driver_interface::BusDriverInterfaceProxy::UnregisterDPC
+m_busDriverInterface->UnregisterDpc
+m_busDriverInterface->UnregisterDpc(m_busDriverInterface->InterfaceHeader.Context)
+p2p_bus_driver_interface::BusDriverInterfaceProxy::SetTxState
+m_busDriverInterface->TransmitControl
+p2p_bus_driver_interface::BusDriverInterfaceProxy::SetRxState
+m_busDriverInterface->ReceiveControl
+p2p_bus_driver_interface::BusDriverInterfaceProxy::SetTxInterruptState
+m_busDriverInterface->TransmitBufferProcessedInterruptControl
+p2p_bus_driver_interface::BusDriverInterfaceProxy::SetRxInterruptState
+m_busDriverInterface->ReceiveBufferProcessedInterruptControl
+p2p_bus_driver_interface::BusDriverInterfaceProxy::GetMaxLinkSpeed
+m_busDriverInterface->GetMaxSpeed
+p2p_bus_driver_interface::BusDriverInterfaceProxy::DrainTxPackets
+m_busDriverInterface->DrainTxPackets
+m_busDriverInterface->DrainTxPackets(m_busDriverInterface->InterfaceHeader.Context, timeout)
+p2p_bus_driver_interface::BusDriverInterfaceProxy::ReceiveMessageCallback
+me->m_processRxIpPacketCallback
+p2p_bus_driver_interface::BusDriverInterfaceProxy::MediumStatusChangedCallback
+me->m_processMediumStatusChangedCallback
+p2p_bus_driver_interface::BusDriverInterfaceProxy::P2pConnectionControlCallback
+me->m_connectionControlCallback
+p2p_bus_driver_interface::BusDriverInterfaceProxy::P2pTakeSnapshotCallback
+me->m_takeSnapshotCallback
+p2p_connection::P2pConnectionStateMachine::Init
+m_peerData
+ logout complete
+m_logoutCompleteEvent
+timerFactory
+WaitLogoutResponseTimeoutExpired
+Wait Logout response
+m_logoutResponseTimer
+WaitLoginResponseTimeoutExpired
+Wait Login response
+m_loginResponseTimer
+ProcessPeerLogin
+ProcessPeerLoginResponse
+ProcessPeerLogout
+ProcessPeerStatus
+ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateMachine::Uninit
+m_logoutCompleteEvent->Wait(10000)
+p2p_connection::P2pConnectionStateMachine::Connect
+GetCurrentState()->Login()
+p2p_connection::P2pConnectionStateMachine::Disconnect
+Logout timed out
+p2p_connection::P2pConnectionStateMachine::PauseDataPath
+GetCurrentState()->PauseDataPath()
+p2p_connection::P2pConnectionStateMachine::ProcessPeerLogin
+p2p_connection::P2pConnectionStateMachine::ProcessPeerLoginResponse
+p2p_connection::P2pConnectionStateMachine::ProcessPeerLogout
+p2p_connection::P2pConnectionStateMachine::ProcessPeerStatus
+p2p_connection::P2pConnectionStateMachine::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateMachine::WaitLoginResponseTimeoutExpired
+p2p_connection::P2pConnectionStateMachine::WaitLogoutResponseTimeoutExpired
+p2p_connection::P2pConnectionState::ProcessPeerLogin
+p2p_connection::P2pConnectionState::ProcessPeerLoginResponse
+p2p_connection::P2pConnectionState::ProcessPeerLogout
+p2p_connection::P2pConnectionState::ProcessPeerStatus
+p2p_connection::P2pConnectionState::SendLoginResponsePacket
+m_controlPath->SendIpPacket(loginResponsePacket)
+p2p_connection::P2pConnectionState::SendStatusPacket
+m_controlPath->SendIpPacket(statusPacket)
+p2p_connection::P2pConnectionState::SendLogoutPacket
+m_controlPath->SendIpPacket(logoutPacket)
+p2p_connection::P2pConnectionState::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionState::WaitLoginResponseTimeoutExpired
+p2p_connection::P2pConnectionState::WaitLogoutResponseTimeoutExpired
+p2p_connection::P2pConnectionState::AttemptToFinalizeConnection
+p2p_connection::P2pConnectionState::SendLoginRequestPacket
+m_controlPath->SendIpPacket(loginPacket)
+p2p_connection::P2pConnectionStateWaitForMediumReady::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateLogin::ProcessPeerLogin
+p2p_connection::P2pConnectionStateLogin::ProcessPeerLoginResponse
+p2p_connection::P2pConnectionStateLogin::ProcessPeerLogout
+p2p_connection::P2pConnectionStateLogin::WaitLoginResponseTimeoutExpired
+p2p_connection::P2pConnectionStateLogin::SendLoginRequest
+p2p_connection::P2pConnectionStateLogin::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateLogin::RetryLogin
+p2p_connection::P2pConnectionStateConnected::ProcessPeerLogin
+p2p_connection::P2pConnectionStateConnected::ProcessPeerLoginResponse
+p2p_connection::P2pConnectionStateConnected::ProcessPeerLogout
+p2p_connection::P2pConnectionStateConnected::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::ProcessPeerLogin
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::ProcessPeerLoginResponse
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::ProcessPeerLogout
+p2p_connection::P2pConnectionStateConnectedDataPathPaused::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateWaitForPeerLogin::ProcessPeerLogin
+p2p_connection::P2pConnectionStateWaitForPeerLogin::ProcessPeerLoginResponse
+p2p_connection::P2pConnectionStateWaitForPeerLogin::ProcessPeerLogout
+p2p_connection::P2pConnectionStateWaitForPeerLogin::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateLogout::ProcessPeerLogin
+p2p_connection::P2pConnectionStateLogout::ProcessPeerLogout
+p2p_connection::P2pConnectionStateLogout::ProcessPeerStatus
+p2p_connection::P2pConnectionStateLogout::ProcessMediumStatusChanged
+p2p_connection::P2pConnectionStateLogout::WaitLogoutResponseTimeoutExpired
+p2p_connection::P2pConnectionStateLogout::FinalizeLogout
+p2p_connection::P2pConnectionStatePeerLogout::ProcessPeerLogin
+p2p_connection::P2pConnectionStatePeerLogout::ProcessPeerLogout
+p2p_connection::P2pConnectionStatePeerLogout::ProcessMediumStatusChanged
+p2p_connection::PeerData::UpdateLoginPacket
+p2p_connection::PeerData::UpdateLoginResponsePacket
+p2p_connection::PeerData::ResetPackets
+p2p_device::NdisStatusIndicator::Init
+ndisMiniportHandle
+p2p_device::NdisStatusIndicator::IndicateMediaConnectStateConnected
+p2p_device::NdisStatusIndicator::IndicateMediaConnectStateDisconnected
+p2p_control_path::P2pControlPath::Init
+ProcessRxIpPacket
+p2p_control_path::P2pControlPath::RegisterPeerLoginCallback
+p2p_control_path::P2pControlPath::RegisterPeerLoginResponseCallback
+p2p_control_path::P2pControlPath::RegisterPeerLogoutCallback
+p2p_control_path::P2pControlPath::RegisterPeerStatusCallback
+p2p_control_path::P2pControlPath::ProcessRxIpPacket
+p2p_control_path::P2pControlPath::SendIpPacket
+m_busDriverInterface->SendIpPacketToPeer(packet, size)
+wdf_common::WdfIoTarget::Open
+WdfIoTargetCreate(m_device, &ioTargetAttributes, &m_ioTarget)
+m_ioTarget
+wdf_common::WdfIoTarget::Close
+wdf_common::WdfIoTarget::DeleteIoTarget
+wdf_common::WdfIoTarget::QueryRemoveCallback
+wdf_common::WdfIoTarget::OnQueryRemove
+Failed opening bcrypt algorithm provider with status 0x
+common_frameworks::AlgorythmProvider::AlgorythmProvider
+m_algorythmProvider
+common_frameworks::AlgorythmProvider::GenerateRandomBuffer
+Failed generating buffer (random number) with status 0x
+kmdf_common::CentralScrutinizerClient::Init
+lockFactory
+m_objectsInfoAccessor
+Scrutinizer interface PNP watcher
+m_pnpNotificationsWatcher
+OnDeviceInterfaceArrival
+OnDeviceInterfaceRemoval
+kmdf_common::CentralScrutinizerClient::Start
+m_pnpNotificationsWatcher->Start()
+kmdf_common::CentralScrutinizerClient::Stop
+m_pnpNotificationsWatcher->Stop()
+kmdf_common::CentralScrutinizerClient::OnDeviceInterfaceArrival
+OnScrutinizerIoTargetQueryRemove
+m_d2dClient
+m_d2dClient->Connect()
+d2dInterface->RegisterScrutinizableDriver
+kmdf_common::CentralScrutinizerClient::OnDeviceInterfaceRemoval
+kmdf_common::CentralScrutinizerClient::OnScrutinizerIoTargetQueryRemove
+kmdf_common::CentralScrutinizerClient::ChallengeCentralScrutinizer
+ECDSA_P256
+dsaAlgorythmProvider.GetProvider()
+hashAlgorithmProvider.GetProvider()
+HashDigestLength
+BCryptGetProperty(hashAlgorithmProvider.GetProvider(), L"HashDigestLength", reinterpret_cast<BYTE *>(&hashDigestLength), sizeof(hashDigestLength), &resultLength, 0)
+randomAlgorythmProvider.GetProvider()
+randomAlgorythmProvider.GenerateRandomBuffer(message)
+BCryptCreateHash(hashAlgorithmProvider.GetProvider(), &hashHandle, nullptr, 0, nullptr, 0, 0)
+BCryptHashData(hashHandle, message.data(), static_cast<ULONG>(message.size()), 0)
+BCryptFinishHash(hashHandle, hashedMessage.data(), static_cast<ULONG>(hashedMessage.size()), 0)
+BCryptDestroyHash(hashHandle)
+d2dInterface->ChallengeCentralScrutinizer
+d2dInterface->ChallengeCentralScrutinizer(&d2dInterface->interfaceHeader, message.data(), static_cast<ULONG>(message.size()), challengeIndex, signedMessage.data(), static_cast<ULONG>(signedMessage.size()), &signedMessageSize)
+ECCPUBLICBLOB
+BCryptImportKeyPair(dsaAlgorythmProvider.GetProvider(), nullptr, L"ECCPUBLICBLOB", &publicKeyHandle, publicKey, (sizeof(*RtlpNumberOf(publicKey))), 0)
+BCryptDestroyKey(publicKeyHandle)
+kmdf_common::CentralScrutinizerClient::EnableScrutinizer
+kmdf_common::CentralScrutinizerClient::GetScrutinizerVersion
+driverName
+kmdf_common::CentralScrutinizerClient::GetDriverName
+kmdf_common::CentralScrutinizerClient::GetObjectsInfoDescriptions
+kmdf_common::CentralScrutinizerClient::GetObjectInfo
+kmdf_common::CentralScrutinizerClient::ResetObjectInfo
+kmdf_common::KmdfDriverToDriverInterfaceClient<struct _CENTRAL_SCRUTINIZER_DRIVER_INTERFACE_V3>::Disconnect
+kmdf_common::KmdfDriverToDriverInterfaceClient<struct _CENTRAL_SCRUTINIZER_DRIVER_INTERFACE_V3>::Connect
+m_ioTarget->Open()
+kmdf_common::KernelDriverPnpNotificationWatcher::Start
+driverObject
+IoRegisterPlugPlayNotification(EventCategoryDeviceInterfaceChange, 0x00000001, (PVOID)(&m_targetGuid), driverObject, PnpNotificationCallback, this, &m_notificationEntry)
+kmdf_common::KernelDriverPnpNotificationWatcher::Stop
+IoUnregisterPlugPlayNotification(m_notificationEntry)
+kmdf_common::KernelDriverPnpNotificationWatcher::OnPnpNotification
+notificationStructure
+notification->SymbolicLinkName
+kmdf_common::KernelDriverPnpNotificationWatcher::RegisterPnpNotification
+m_callbacksLock
+kmdf_common::KernelDriverPnpNotificationWatcher::UnregisterPnpNotification
+kmdf_common::KernelDriverPnpNotificationWatcher::DispatchPnpNotificationEvents
+UVWATAUAVAWH
+A_A^A]A\_^]
+Thunderbolt P2P NDIS Driver
+NdisReadConfiguration
+NdisWriteConfiguration
+NdisCloseConfiguration
+NdisReadNetworkAddress
+NdisGroupMaxProcessorCount
+NdisGroupActiveProcessorCount
+NdisOpenConfigurationEx
+NdisAllocateMemoryWithTagPriority
+NdisAllocateTimerObject
+NdisCancelTimerObject
+NdisFreeTimerObject
+NdisFreeMemoryWithTagPriority
+NdisAllocateNetBufferListPool
+NdisFreeNetBufferListPool
+NdisFreeNetBufferList
+NdisAllocateNetBufferAndNetBufferList
+NdisAllocateMdl
+NdisFreeMdl
+NdisMSetMiniportAttributes
+NdisMGetDeviceProperty
+NdisMRegisterScatterGatherDma
+NdisMDeregisterScatterGatherDma
+NdisMRegisterMiniportDriver
+NdisMDeregisterMiniportDriver
+NdisMSendNetBufferListsComplete
+NdisMIndicateStatusEx
+NdisSetTimerObject
+NdisMIndicateReceiveNetBufferLists
+SystemPrng
+KeInitializeDpc
+KeInitializeEvent
+KeInitializeMutex
+KeSetTargetProcessorDpcEx
+KeInitializeSpinLock
+KeGetProcessorNumberFromIndex
+ExAllocatePoolWithTag
+ExFreePool
+InitializeSListHead
+_vsnwprintf
+RtlInitUnicodeString
+MmGetSystemRoutineAddress
+IoWMIRegistrationControl
+KeAcquireSpinLockRaiseToDpc
+KeReleaseSpinLock
+KeReleaseMutex
+KeWaitForSingleObject
+KeGetProcessorIndexFromNumber
+KeInsertQueueDpc
+KeGetCurrentProcessorNumberEx
+ExQueryDepthSList
+ExpInterlockedPushEntrySList
+ExpInterlockedFlushSList
+MmMapLockedPagesSpecifyCache
+KeLowerIrql
+KfRaiseIrql
+KeTryToAcquireSpinLockAtDpcLevel
+KeAcquireSpinLockAtDpcLevel
+KeReleaseSpinLockFromDpcLevel
+ntoskrnl.exe
+KeQueryPerformanceCounter
+RtlCopyUnicodeString
+KeClearEvent
+KeSetEvent
+WdfVersionBind
+WdfVersionUnbind
+WdfVersionBindClass
+WdfVersionUnbindClass
+WDFLDR.SYS
+IoRegisterPlugPlayNotification
+IoUnregisterPlugPlayNotification
+BCryptOpenAlgorithmProvider
+BCryptGetProperty
+BCryptCloseAlgorithmProvider
+BCryptImportKeyPair
+BCryptDestroyKey
+BCryptVerifySignature
+BCryptCreateHash
+BCryptHashData
+BCryptFinishHash
+BCryptDestroyHash
+BCryptGenRandom
+SAMPLE_IDENTIFIER{1bc93793-694f-48fe-9372-81e2b05556fd}
+VS_VERSION_INFO
+StringFileInfo
+CompanyName
+Intel Corporation
+FileDescription
+Thunderbolt(TM) P2P Ndis Driver
+FileVersion
+1.41.823.0
+InternalName
+TbtP2pNdisDrv.sys
+LegalCopyright
+Copyright(C) 2020, Intel Corporation
+OriginalFilename
+TbtP2pNdisDrv.sys
+ProductName
+Thunderbolt(TM) P2P Ndis Driver
+ProductVersion
+446fd01082c349948b34c14229fed5cb48f01f4c
+VarFileInfo
+Translation
+<<<Obsolete>>
+Washington1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+130815202630Z
+230815203630Z0o1
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+000530104838Z
+200530104838Z0
+Greater Manchester1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+http://ocsp.usertrust.com0
+Santa Clara1
+Intel Corporation1%0#
+Intel External Issuing CA 7B0
+190304151517Z
+210303151517Z0g1
+Santa Clara1
+Intel Corporation1
+TBT_DCH_DRV_PROD0
+&http://pki.intel.com/crl/IntelCA7B.crl0f
+&http://pki.intel.com/crt/IntelCA7B.crt0"
+http://OCSP.intel.com/0
+Greater Manchester1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+151028000000Z
+210617235959Z0s1
+Santa Clara1
+Intel Corporation1%0#
+Intel External Issuing CA 7B0
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com05
+intel.com0
+intel.com0
+Santa Clara1
+Intel Corporation1%0#
+Intel External Issuing CA 7B
+20200125182229.802Z0
+Santa Clara1
+Intel Corporation1&0$
+Thales TSS ESN:0E37-9649-08C51
+timestamp.intel.com
+QuoVadis Limited1%0#
+Root Certification Authority1.0,
+%QuoVadis Root Certification Authority0
+140530163555Z
+210317183333Z0I1
+QuoVadis Limited1
+QuoVadis Issuing CA G40
+http://ocsp.quovadisglobal.com05
+)http://trust.quovadisglobal.com/qvrca.crt0
+'http://crl.quovadisglobal.com/qvrca.crl0
+QuoVadis Limited1
+QuoVadis Issuing CA G40
+180420165241Z
+210317183333Z0
+Santa Clara1
+Intel Corporation1&0$
+Thales TSS ESN:0E37-9649-08C51
+timestamp.intel.com0
+http://ocsp.quovadisglobal.com07
++http://trust.quovadisglobal.com/qvicag4.crt0O
+(http://www.quovadisglobal.com/repository0
+)http://crl.quovadisglobal.com/qvicag4.crl0
+QuoVadis Limited1
+QuoVadis Issuing CA G4
+QuoVadis Limited1
+QuoVadis Issuing CA G4
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+190605180632Z
+200603180632Z0
+Washington1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+ Microsoft Operations Puerto Rico1
+232825+4554580
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+Washington1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+"Intel Corporatio
+(https://www.microsoft.com/en-us/windows 0
+20200127094722.908Z0
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FF06-4BC3-B9DA1%0#
+Microsoft Time-Stamp Service
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+191023231937Z
+210121231937Z0
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FF06-4BC3-B9DA1%0#
+Microsoft Time-Stamp Service0
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+Legal_Policy_Statement
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FF06-4BC3-B9DA1%0#
+Microsoft Time-Stamp Service
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20200127065025Z
+20200128065025Z0t0:
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010

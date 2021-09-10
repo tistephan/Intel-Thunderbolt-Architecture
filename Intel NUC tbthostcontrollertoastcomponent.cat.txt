@@ -1,0 +1,121 @@
+210126110759Z0
+thunderboltservice.exe
+tbthostcontrollertoastcomponent.inf
+tbthostcontrollertoastcomponent.inf
+tbtcontrolcentertoastlauncher.exe
+thunderboltservice.exe
+tbtcontrolcentertoastlauncher.exe
+&Qualification Leve
+Submission I
+29989500_13704600856801792_1152921505692990548
+9ec7baa9-483f-4273-9d21-8d0b3fc60ca5
+Declarativ
+_v100_X64_RS3,_v100_X64_RS4,_v100_X64_RS5,_v100_X64_19H1,_v100_X64_Vb
+{5ce5ea10-2048-49be-9464-c4ba0030122f}\p2p
+swc\provider_intel&&component_thunderbolttoast
+swc\provider_intel&&component_thunderbolthsa
+pci\ven_8086&dev_468d&cc_0c03
+pci\ven_8086&dev_465e&cc_0c03
+pci\ven_8086&dev_467d&cc_0c03
+pci\ven_8086&dev_464e&cc_0c03
+pci\ven_8086&dev_466d&cc_0c03
+pci\ven_8086&dev_463e&cc_0c03
+pci\ven_8086&dev_9a21&cc_0c03
+pci\ven_8086&dev_9a1f&cc_0c03
+pci\ven_8086&dev_9a1d&cc_0c03
+pci\ven_8086&dev_9a1b&cc_0c03
+pci\ven_8086&dev_9a21&cc_0880
+pci\ven_8086&dev_9a1f&cc_0880
+pci\ven_8086&dev_9a1d&cc_0880
+pci\ven_8086&dev_9a1b&cc_0880
+pci\ven_8086&dev_8ab0&cc_0880
+pci\ven_8086&dev_8ab3&cc_0880
+pci\ven_8086&dev_8aa0&cc_0880
+pci\ven_8086&dev_8aa3&cc_0880
+pci\ven_8086&dev_8a0d&cc_0880
+pci\ven_8086&dev_8a17&cc_0880
+pci\ven_8086&dev_15de&cc_0880
+pci\ven_8086&dev_15dd&cc_0880
+pci\ven_8086&dev_15dc&cc_0880
+pci\ven_8086&dev_1134
+pci\ven_8086&dev_1137
+pci\ven_8086&dev_15eb&cc_0880
+pci\ven_8086&dev_15e8&cc_0880
+pci\ven_8086&dev_15d9&cc_0880
+pci\ven_8086&dev_15d2&cc_0880
+pci\ven_8086&dev_15bf&cc_0880
+pci\ven_8086&dev_1577&cc_0880
+pci\ven_8086&dev_1575&cc_0880
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+200311174759Z
+210305174759Z0
+Washington1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+ Microsoft Operations Puerto Rico1
+232825+4590560
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+Washington1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+Washington1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+"Intel Corporatio
+(https://www.microsoft.com/en-us/windows 0
+20210126110933.715Z0
+Washington1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:F7A6-E251-150A1%0#
+Microsoft Time-Stamp Service
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+191219011458Z
+210317011458Z0
+Washington1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:F7A6-E251-150A1%0#
+Microsoft Time-Stamp Service0
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+Legal_Policy_Statement
+Washington1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:F7A6-E251-150A1%0#
+Microsoft Time-Stamp Service
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20210126084323Z
+20210127084323Z0w0=
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
